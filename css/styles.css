@@ -209,6 +209,15 @@ a {
 .feature {
     padding: 120px 0;
 }
+.feature-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
 
 .feature-title,
 .team-title,
